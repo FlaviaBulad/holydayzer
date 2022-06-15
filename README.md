@@ -1,9 +1,10 @@
-# This is my first back-end project! 
-##  A basic holiday calendar API built using Nodejs, Express and CORS
+# Holydayzer
+## My frist back-end project at Driven Education's Fullstack Developer Bootcamp
+###  A local server API for the brazillian calendar that lists all holidays and returns if today is a holiday or not.
  **GET** `/holidays`
     
-    Retorna a lista de feriados.
+    Returns holidays list.
     
 - **GET** `/is-today-holiday`
     
-    Retorna `“Sim, hoje é nome-do-feriado”` quando o dia de hoje for feriado e `“Não, hoje não é feriado”` caso contrário
+    Returns `“Sim, hoje é (nome-do-feriado)”` if today is a holiday and `“Não, hoje não é feriado”` otherwise
