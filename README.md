@@ -1,2 +1,2 @@
 # This is my first back-end project! 
-##  A holiday calendar built using Nodejs, Express and CORS
+##  A basic holiday calendar API built using Nodejs, Express and CORS
